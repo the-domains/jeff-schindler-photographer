@@ -1,4 +1,3 @@
-layout_spectrum: 0.3280146196484566
 typography_spectrum: 0.9441598206758499
 color:
   brandStrength: 0.1657947232015431
@@ -11,4 +10,12 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.3280146196484566
+author:
+  name: Jeff Schindler Photographer
+  email: jeff@SchindlerPhotography.com
+  url: ''
 name: Jeff Schindler Photographer
+title: >-
+  Northwest Commercial Photographer living in Spokane WA. Specialize in
+  Architecture, food, product and executive portraits
