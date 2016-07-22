@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-07-22T20:57:57.756Z'
+datePublished: '2016-07-22T20:58:41.054Z'
 sourcePath: _posts/2016-07-22-an-image-a-day.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-07-22T20:57:57.140Z'
+dateModified: '2016-07-22T20:58:40.548Z'
 title: An Image a Day
 publisher: {}
 description: instagram
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # An Image a Day
